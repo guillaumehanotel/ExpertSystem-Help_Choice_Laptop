@@ -1,0 +1,16 @@
+html {
+	font-family: Courier, monospace;
+}
+
+h1 {
+	color: white;
+	font-size: 32px;
+	font-weight: bold;
+	margin-left: 38px;
+	margin-top: 10px;
+}
+
+p {
+	font-size: 28pt;
+	font-weight: bold;
+}

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="utf-8" />
+ <title>Help Choice Laptop</title>
+ <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+ <link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css'>
+ <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+ <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+ <style>
+
+   body{
+    font:12px/15px Roboto, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #034F84;
+    color: white;
+   }
+
+  h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 50px;
+  }
+
+  #question {
+    text-align: justify-all;
+    font-size: 30px;
+    margin-top: 40px;
+    line-height: 27px;
+  }
+
+  #question p:first-child{
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+
+  form {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px
+  }
+
+  input {
+    color: black;
+    margin-top: 10px;
+  }
+
+   .btn {
+          width: 120px;
+          height: 50px;
+          font-size: 25px;
+          font-weight: bold;
+          border-radius: 0;
+          margin-top: 20px;
+          box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+
+  footer {
+    margin-top: 110px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  </style>
+
+
+</head>
+
+        <body>
+
+          <div class="container">
+
+            <header>
+              <div class="row">
+                <h1>Help Choice Laptop</h1>
+              </div>
+            </header>
+
+            <div id="question">
+
+            </div>
+
+            <form name="myForm">
+              <div class="form-group">
+                <label for="rep">Entrez le chiffre correspondant à la réponse : </label>
+                <br/>
+                <input type="text" name="rep" id="rep" onkeyup="this.value=this.value.replace(/[^\d]/,'')">
+             </div>
+
+              <input type="button" class="btn btn-default btn-lg" value="Save" onclick="sendFormData();"/>
+
+            </form>
+
+            <footer>
+              <div class="row">
+                <p>CHINY Antoine - HANOTEL Guillaume</p>
+                <p>Ynov Bachelor 2 - 2017/2018</p>
+              </div>
+            </footer>
+
+
+          </div>
+
+  <script type="text/javascript">
+
+
+      function stopRKey(evt) { 
+        var evt = (evt) ? evt : ((event) ? event : null); 
+        var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null); 
+        if ((evt.keyCode == 13) && (node.type=="text"))  {return false;} 
+      } 
+
+      document.onkeypress = stopRKey; 
+
+      function sendFormData() {
+        var repValue = myForm.elements['rep'].value;
+
+        var question = document.getElementById("question");
+        var nbAnswer = question.children.length - 1;
+
+        // si rep non vide
+        if(repValue.length !== 0){
+          // si rep correspond à un nombre correct entre 1 et le nb de réponse
+          if(parseInt(repValue) >= 1 && parseInt(repValue) <= nbAnswer){
+            // Invoke the 'save' method of the 'Account' Java object.
+            Result.save(repValue);
+          }
+        }
+
+      }
+
+
+  </script>
+
+</body>
+
+
+</html>
+
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.ynov.b2.systemeexpert.ui.MainFrame.Result" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/ui/MainFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="105" y="50"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.ynov.b2.systemeexpert.utils.QueryBuilder" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/utils/QueryBuilder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="543" y="403"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.ynov.b2.systemeexpert.core.MoteurInferenceAvant" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/core/MoteurInferenceAvant.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="449" y="144"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.ynov.b2.systemeexpert.beans.BaseDeRegles" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/BaseDeRegles.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="358" y="225"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.ynov.b2.systemeexpert.utils.QueryResources" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/utils/QueryResources.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="186" y="275"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.ynov.b2.systemeexpert.core.SystemeExpert" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/core/SystemeExpert.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="249" y="146"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.ynov.b2.systemeexpert.ui.MainFrame" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/ui/MainFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="247" y="53"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.ynov.b2.systemeexpert.utils.FaitFactory" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/utils/FaitFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="168" y="336"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.ynov.b2.systemeexpert.beans.Computer" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/Computer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="57" y="276"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.ynov.b2.systemeexpert.beans.Regle" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/Regle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="357" y="311"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.ynov.b2.systemeexpert.launch.LaunchApp" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/launch/LaunchApp.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="62" y="385"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.ynov.b2.systemeexpert.beans.FaitBoolean" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/FaitBoolean.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="674" y="268"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="13" language="java" name="com.ynov.b2.systemeexpert.beans.IFait" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/IFait.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="540" y="314"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="14" language="java" name="com.ynov.b2.systemeexpert.utils.Database" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/utils/Database.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="59" y="330"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.ynov.b2.systemeexpert.beans.FaitEntier" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/FaitEntier.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="668" y="348"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="16" language="java" name="com.ynov.b2.systemeexpert.ui.IHM" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/ui/IHM.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="448" y="54"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="17" language="java" name="com.ynov.b2.systemeexpert.beans.BaseDeFaits" project="SystemeExpertUI" 
+    file="/SystemeExpertUI/src/com/ynov/b2/systemeexpert/beans/BaseDeFaits.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="539" y="225"/>    
+    <display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="false">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <association id="18">    
+    <bendpoint x="437" y="299"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="19" name="premisses"/>      
+      <multiplicity id="20" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="22" name="instance"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <bendpoint x="434" y="337"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="25" name="conclusion"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="28" name="moteur"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="31" name="ihm"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="33">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <nesting id="34">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <association id="35">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="36" name="systemeexpert"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="39" name="faits"/>      
+      <multiplicity id="40" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="42" name="baseDeFaits"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="44">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="13"/>  
+  </realization>  
+  <association id="45">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="46" name="faits"/>      
+      <multiplicity id="47" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="49" name="ihm"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="52" name="baseDeRegles"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="54">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="16"/>  
+  </realization>  
+  <association id="55">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="56" name="regles"/>      
+      <multiplicity id="57" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="false" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="false">    
+    <attributes public="false" package="false" protected="false" private="false" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
